@@ -7,4 +7,4 @@ I mostly made this because nobody had migrated this mod to 1.21.4 yet and I want
 
 ## Credits 
 
-This mod is based off of [Hunger on Peaceful](https://github.com/nok-ko/HungerOnPeaceful) by nok-ko and techguy16's [1.20 fork](https://modrinth.com/mod/hunger-in-peaceful) of the same. 
+This mod was inspired by the mod [Hunger on Peaceful](https://www.curseforge.com/minecraft/mc-mods/hunger-on-peaceful) and techguy16's [1.20 fork](https://modrinth.com/mod/hunger-in-peaceful). 
